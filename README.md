@@ -1,9 +1,9 @@
 # PubCodes
 Codes for some of my published papers. They are provided in the spirit of Reproducible Research.
 
-# List of paper with codes (please cite the paper if appropriate)
+# List of paper with codes (please cite if appropriate)
 - Liu, J., Xiao, M. A new semi-smooth Newton multigrid method for control-constrained semi-linear elliptic PDE problems. J Glob Optim 64, 451–468 (2016). (https://doi.org/10.1007/s10898-014-0206-y) 
-  - Code file: **Elliptic_SSN_MG_2021July16.zip**
+  - Code file: **Elliptic_SSN_MG_2021July16.zip**; run `SSN_MG_test.m` and `FAS_FMG_test.m` to test both methods.
 
 
 # Licence Information: 
